@@ -129,6 +129,10 @@
     <ClCompile Include="005_ArithmeticOperations.cpp" />
     <ClCompile Include="004_Const.cpp" />
     <ClCompile Include="006_ArithmeticOperations1.cpp" />
+    <ClCompile Include="007_Data.cpp" />
+    <ClCompile Include="008_IfStatement.cpp" />
+    <ClCompile Include="009_ForStatement.cpp" />
+    <ClCompile Include="010_Array.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

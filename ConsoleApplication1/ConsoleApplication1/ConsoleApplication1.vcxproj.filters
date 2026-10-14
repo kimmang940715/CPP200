@@ -33,5 +33,17 @@
     <ClCompile Include="006_ArithmeticOperations1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="007_Data.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="008_IfStatement.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="009_ForStatement.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="010_Array.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_6()
 {
 	int two = 2;
 	int eight = 8;
