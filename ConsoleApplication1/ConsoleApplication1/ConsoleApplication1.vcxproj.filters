@@ -15,10 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Helloworld.cpp">
+    <ClCompile Include="001_Helloworld.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PrintExample.cpp">
+    <ClCompile Include="002_PrintExample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="003_Variable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="004_Const.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="005_ArithmeticOperations.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="006_ArithmeticOperations1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

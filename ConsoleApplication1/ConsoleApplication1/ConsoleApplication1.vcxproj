@@ -123,8 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Helloworld.cpp" />
-    <ClCompile Include="PrintExample.cpp" />
+    <ClCompile Include="003_Variable.cpp" />
+    <ClCompile Include="001_Helloworld.cpp" />
+    <ClCompile Include="002_PrintExample.cpp" />
+    <ClCompile Include="005_ArithmeticOperations.cpp" />
+    <ClCompile Include="004_Const.cpp" />
+    <ClCompile Include="006_ArithmeticOperations1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
