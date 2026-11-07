@@ -1,0 +1,36 @@
+## Visual Studio 템플릿 및 인덱싱 임시 파일 (.vs)
+.vs/
+
+## 빌드 출력 파일 (Build Results)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio 개인 설정 파일
+*.user
+*.userosmat
+*.suo
+*.userprefs
+
+## Visual Studio 캐시 및 작업 파일
+*.VC.db
+*.opendb
+
+## Nuget 패키지
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+## 기타 임시 파일
+*.tmp
+*.log
