@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main_014()
 {
 	vector<int> exam;
 	exam.push_back(10);

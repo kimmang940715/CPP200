@@ -19,7 +19,7 @@ int Func2()
 
 
 
-int main()
+int main_015()
 {
 	cout << "y = " << Func1() << endl;
 	cout << "x = " << Func2() << endl;

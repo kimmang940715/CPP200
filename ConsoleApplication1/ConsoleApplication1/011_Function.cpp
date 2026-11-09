@@ -12,7 +12,7 @@ int Plus(const int x, const int y)
 	return x + y;
 }
 
-int main()
+int main_11()
 {
 	Minus(10, 5);
 

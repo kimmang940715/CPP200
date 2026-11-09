@@ -26,7 +26,7 @@ namespace baekjae
 using namespace silla;
 using namespace baekjae;
 
-int main()
+int main_013()
 {
 	cout << "신라 중심지 : ";
 	silla::CentralArea();

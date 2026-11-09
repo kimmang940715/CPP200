@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main_12()
 {
 
 	// 출력하지 않을 코드
