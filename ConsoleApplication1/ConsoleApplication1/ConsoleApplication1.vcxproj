@@ -133,6 +133,11 @@
     <ClCompile Include="008_IfStatement.cpp" />
     <ClCompile Include="009_ForStatement.cpp" />
     <ClCompile Include="010_Array.cpp" />
+    <ClCompile Include="011_Function.cpp" />
+    <ClCompile Include="012_Comment.cpp" />
+    <ClCompile Include="013_Namespace.cpp" />
+    <ClCompile Include="014_Include.cpp" />
+    <ClCompile Include="015_ScopingRule.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
